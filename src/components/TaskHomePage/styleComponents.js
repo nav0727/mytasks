@@ -56,3 +56,9 @@ export const Buttons = styled.button`
   border: 1px solid #fff;
   border-radius: 20px;
 `
+
+export const UlContainer = styled.ul`
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+`
